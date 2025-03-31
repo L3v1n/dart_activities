@@ -1,3 +1,3 @@
 # dart_activities
 
-A sample command-line application
+A sample command-line application.
